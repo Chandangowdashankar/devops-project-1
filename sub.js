@@ -5,4 +5,7 @@ var b = document.getElementById("num2").value
 var result
 result=a-b
 docuemnt.getElementById("result").value 
+
+
+
 }
