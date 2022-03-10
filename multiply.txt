@@ -1,8 +1,10 @@
 multiplication code
 
-echo "Enter a number"
-read num1
-echo "Enter second num"
-read num2
-mul=`expr $num1 \* $num2`
-echo "Product is $num"
+funtion mul() {
+var a = doucment.getElementById("num1").value
+var b = document.getElementById("num2").value
+result = a*b
+doucument.getElementById("result").value
+}
+
+
