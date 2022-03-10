@@ -1,0 +1,8 @@
+multiplication code
+
+echo "Enter a number"
+read num1
+echo "Enter second num"
+read num2
+mul=`expr $num1 \* $num2`
+echo "Product is $num"
